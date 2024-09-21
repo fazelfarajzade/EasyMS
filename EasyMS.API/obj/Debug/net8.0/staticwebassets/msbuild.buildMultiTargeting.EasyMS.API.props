@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EasyMS.API.props" />
+</Project>

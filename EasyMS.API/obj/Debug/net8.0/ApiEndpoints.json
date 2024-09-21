@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "EasyMS.API.Controllers.AccountsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyMS.API.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EasyMS.API.ApiModels.Aauthentication.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyMS.API.Controllers.AuthenticationController",
+    "Method": "Refresh",
+    "RelativePath": "api/Authentication/Refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EasyMS.API.ApiModels.Aauthentication.RefreshModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\d\\workspace\\EasyMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\pages\\userspage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\pages\\userspage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\components\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\components\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\components\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\components\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\components\\mysidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\components\\mysidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\components\\posts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\components\\posts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\components\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\components\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\components\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\components\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\loginpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\pages\\loginpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|c:\\d\\workspace\\easyms\\admin-panel\\src\\pages\\dashboardpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{934E8A22-D207-4541-8985-2D488F7B9BD0}|C:\\d\\workspace\\EasyMS\\admin-panel|solutionrelative:admin-panel\\src\\pages\\dashboardpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5477F89A-2009-4D2B-A669-8D3278407BC1}|EasyMS.API\\EasyMS.API.csproj|c:\\d\\workspace\\easyms\\easyms.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5477F89A-2009-4D2B-A669-8D3278407BC1}|EasyMS.API\\EasyMS.API.csproj|solutionrelative:easyms.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\package.json",
+              "RelativeDocumentMoniker": "admin-panel\\package.json",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\package.json",
+              "RelativeToolTip": "admin-panel\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T20:04:25.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersPage.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\UsersPage.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\pages\\UsersPage.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\UsersPage.js",
+              "RelativeToolTip": "admin-panel\\src\\pages\\UsersPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:49:55.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Dashboard.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\components\\Dashboard.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Dashboard.js",
+              "RelativeToolTip": "admin-panel\\src\\components\\Dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:44:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySidebar.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\MySidebar.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\components\\MySidebar.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\MySidebar.js",
+              "RelativeToolTip": "admin-panel\\src\\components\\MySidebar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:44:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navbar.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Navbar.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\components\\Navbar.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Navbar.js",
+              "RelativeToolTip": "admin-panel\\src\\components\\Navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:44:43.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Posts.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Posts.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\components\\Posts.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Posts.js",
+              "RelativeToolTip": "admin-panel\\src\\components\\Posts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:44:42.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Settings.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\components\\Settings.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Settings.js",
+              "RelativeToolTip": "admin-panel\\src\\components\\Settings.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:44:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Users.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\components\\Users.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\components\\Users.js",
+              "RelativeToolTip": "admin-panel\\src\\components\\Users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:44:38.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardPage.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\DashboardPage.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\pages\\DashboardPage.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\DashboardPage.js",
+              "RelativeToolTip": "admin-panel\\src\\pages\\DashboardPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T19:29:13.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\App.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\App.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\App.js",
+              "RelativeToolTip": "admin-panel\\src\\App.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T18:55:54.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\EasyMS.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "EasyMS.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\EasyMS.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "EasyMS.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:52:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.js",
+              "DocumentMoniker": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\LoginPage.js",
+              "RelativeDocumentMoniker": "admin-panel\\src\\pages\\LoginPage.js",
+              "ToolTip": "C:\\d\\workspace\\EasyMS\\admin-panel\\src\\pages\\LoginPage.js",
+              "RelativeToolTip": "admin-panel\\src\\pages\\LoginPage.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T15:26:46.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
